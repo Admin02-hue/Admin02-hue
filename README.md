@@ -9,10 +9,11 @@
 ---
 
 ## 🚀 Tentang Saya
-- 🎨 Menjelajahi **Next.js** & **Tailwind**
-- ⚡ Bersemangat membangun frontend yang scalable
-- 🎯 Tujuan: antarmuka halus & super cepat
-- ☕ Hidup ditemani kopi & inspirasi desain
+- 💻 Frontend Engineer dengan **3+ tahun pengalaman** membangun aplikasi web modern berbasis **React & Next.js**  
+- 🎨 Latar belakang **5+ tahun di bidang Desain Grafis**, memadukan keahlian teknis dengan estetika visual  
+- 🛠️ Terbiasa mengembangkan **UI yang scalable, clean, dan user-friendly**  
+- 📈 Fokus pada **performance, accessibility, dan pengalaman pengguna yang seamless**  
+- ☕ Selalu antusias belajar teknologi baru & berkolaborasi dalam tim lintas disiplin
 
 ---
 

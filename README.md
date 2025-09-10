@@ -26,10 +26,10 @@
 
 ## 📊 Statistik GitHub
 <p align="center">
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats (Mirror Stable) -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Admin02-hue&show_icons=true&theme=tokyonight" height="160" />
   
-  <!-- Streak Stats -->
+  <!-- Streak Stats (Stable) -->
   <img src="https://streak-stats.demolab.com?user=Admin02-hue&theme=tokyonight" height="160" />
 </p>
 

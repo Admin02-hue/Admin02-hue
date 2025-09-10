@@ -3,8 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Zack!+👋;Frontend+Engineer+%7C+UI+Craftsman;Building+Clean+%26+Modern+Web+Apps" alt="Typing SVG" />
 </p>
 
-<!-- Wave Top -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="wave" />
+<!-- Wave Top Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=120&section=header" />
 
 ---
 
@@ -25,8 +25,11 @@
 
 ## 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Admin02-hue&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Admin02-hue&theme=tokyonight" height="160" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Admin02-hue&show_icons=true&theme=tokyonight" height="160" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Admin02-hue&theme=tokyonight" height="160" />
 </p>
 
 ---
@@ -52,5 +55,6 @@
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge"></a>
 </p>
 
-<!-- Wave Footer -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="wave" />
+<!-- Wave Footer Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=120&section=footer" />
+

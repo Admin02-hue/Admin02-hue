@@ -1,45 +1,56 @@
-# Hi there, I'm Zack 👋
+<!-- Banner Animasi -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Zack!+👋;Frontend+Engineer+%7C+UI+Craftsman;Building+Clean+%26+Modern+Web+Apps" alt="Typing SVG" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00A3FF&width=500&lines=Frontend+Engineer;React+%7C+Next.js+%7C+Tailwind+Lover;Building+clean+and+modern+UI)](https://git.io/typing-svg)
-
----
-
-## 🚀 About Me
-- 🌱 Exploring **Next.js** and **Tailwind CSS**
-- 💼 Passionate about **scalable frontend architecture**
-- 🎯 Aim: build smooth & lightning-fast interfaces
-- ☕ Powered by coffee & design inspo
+<!-- Wave Top -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="wave" />
 
 ---
 
-## 🛠️ Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+## 🚀 Tentang Saya
+- 🎨 Menjelajahi **Next.js** & **Tailwind**
+- ⚡ Bersemangat membangun frontend yang scalable
+- 🎯 Tujuan: antarmuka halus & super cepat
+- ☕ Hidup ditemani kopi & inspirasi desain
 
 ---
 
-## 📊 GitHub Stats
-![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=zackdev&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zackdev&layout=compact&theme=transparent)
+## 🛠️ Tumpukan Teknologi
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,ts,nodejs,vite,figma,git,github" />
+</p>
 
 ---
 
-## 📌 Featured Projects
-- 🔗 [Awesome UI Kit](https://github.com/zackdev/awesome-ui-kit) – Reusable UI components.
-- 🔗 [Next.js Starter](https://github.com/zackdev/nextjs-starter) – Minimal starter for modern web apps.
-- 🔗 [Portfolio](https://github.com/zackdev/portfolio) – My personal website.
+## 📊 Statistik GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Admin02-hue&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Admin02-hue&theme=tokyonight" height="160" />
+</p>
+
+---
+
+## 🏆 Pencapaian
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Admin02-hue&theme=onedark&margin-w=10&margin-h=10&column=7" />
+</p>
+
+---
+
+## ✨ Featured Projects
+- 🔗 [Awesome UI Kit](https://github.com/Admin02-hue/awesome-ui-kit) – Reusable UI components.
+- 🔗 [Next.js Starter](https://github.com/Admin02-hue/nextjs-starter) – Starter modern untuk web apps.
+- 🔗 [Portfolio](https://github.com/Admin02-hue/portfolio) – Website pribadi.
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Website-000?logo=About.me&logoColor=white)](https://yourportfolio.com)
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white&style=for-the-badge"></a>
+</p>
 
----
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Thanks for visiting!
+<!-- Wave Footer -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/wave.svg" alt="wave" />

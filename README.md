@@ -26,11 +26,16 @@
 
 ## 📊 Statistik GitHub
 <p align="center">
-  <!-- GitHub Stats (Mirror Stable) -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Admin02-hue&show_icons=true&theme=tokyonight" height="160" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Admin02-hue&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160" />
   
-  <!-- Streak Stats (Stable) -->
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=Admin02-hue&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Admin02-hue&layout=compact&theme=tokyonight&cache_seconds=1800" height="160" />
 </p>
 
 ---
